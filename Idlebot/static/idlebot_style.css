@@ -1,0 +1,177 @@
+h1#header1 {
+    background:url(https://images.squarespace-cdn.com/content/v1/54bdcba5e4b08f92b173441f/1492980835245-25LYZE96GXGM0194UELQ/designhexagon);
+    float:left;
+    font-family:cursive;
+    color:black;
+    border:solid;
+    width:900px;
+    border-radius: 152px 304px 304px 152px;
+    text-align:center;
+
+}
+p {
+    text-align:center;
+    font-family:cursive;
+    color:white;
+    font-size:20px;
+    
+}
+
+p#new_des {
+    text-align:left;
+    width:30px;
+    float:left;
+    text-size-adjust: 100px;
+    font-size:30px;
+}
+
+body {
+    background:url(https://cutewallpaper.org/23/high-resolution-space-wallpaper/468227712.jpg)
+}
+
+a:link {
+    font-family:cursive;
+    color:white;
+    font-size:20px;
+    background-color:gray;
+    margin:5px;
+    border:solid;
+    border-radius:300px 304px 304px 300px;
+    
+}
+
+a:visited {
+    color:black;
+    background-color:transparent;
+    
+}
+
+a:hover {
+    color:white;
+    background-color:gray;
+    
+    
+}
+
+a:active {
+    color:white;
+    background-color:transparent;
+ 
+}
+
+
+h1#aboutus {
+
+    background-color:black;
+    color:white;
+    font-family:cursive;
+    border:solid;
+    border-color:white;
+    border-radius:300px 304px 304px 300px;
+    text-align:center;
+    float:center;
+    background-position: center;
+
+
+
+
+}
+
+p#aboutus1{
+    background-color:black;
+    color:white;
+    font-family:cursive;
+    float:left;
+
+}
+
+pre {
+    background-color:black;
+    font-family:cursive;
+    color:white;
+    float:left;
+    width:900px;
+    border:solid;
+    border-color:white
+}
+
+p#aboutus2{
+    background-color:black;
+    color:white;
+    font-family:cursive;
+    text-align:center;
+    border:solid; 
+    border-color: white;
+    float:center;
+    width:900px;
+    border-radius:300 304px 304px 300px;
+    padding:0;
+    margin:0 auto;
+
+
+
+}
+
+
+
+p#aboutus4{
+    background-color:black;
+    color:white;
+    font-family:cursive;
+    float:left;
+}
+
+p#aboutgreet {
+    float:none;
+    width:1245px;
+}
+
+.container {
+    background:url(https://t3.ftcdn.net/jpg/02/96/99/78/360_F_296997834_miX2i0EyTem76AMyFtNAT8byzHY8UaB6.jpg);
+    font-family:Arial Black;
+    text-align:center;
+    border:solid;
+    border-radius:300px 304px 304px 300px;
+    border-color:white;
+    border-width:5px;
+    color:white;
+
+}
+
+.nav {
+    background:url(https://t3.ftcdn.net/jpg/02/96/99/78/360_F_296997834_miX2i0EyTem76AMyFtNAT8byzHY8UaB6.jpg);
+    border:solid; 
+    border-color:white;
+    float:none;
+    width:1130px;
+    margin:0 auto;
+    padding:0;
+}
+
+.scientist {
+    background-color:black;
+    margin:0 auto;
+    padding:0;
+    border:solid; 
+    border-color:white;
+    border-radius:100px 100px 100px 100px;
+    border-width:5px;
+    
+}
+
+img {
+    margin:35px
+}
+
+h1#colorhead {
+    color:yellow;
+    font-family:cursive;
+    background-color: black;
+    border:solid;
+    border-color:white;
+    border-radius:300px 304px 304px 300px;
+    text-align:center;
+    float:none;
+    width:300px;
+ 
+}
